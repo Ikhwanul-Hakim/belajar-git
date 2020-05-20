@@ -16,3 +16,7 @@ function akar(x, n = 2){
     else if (n == 3) return Math.cbrt(x)
     else return x
 }
+
+function kurang(x,y){
+    return x - y
+}
